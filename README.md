@@ -8,7 +8,7 @@ Github repository:
 
 The goal of this project was to build a machine learning model to classify a dataset for chest x-ray images, screening them for pneumonia.
 To achieve this goal, I built a **convolutional neural network** to **classify images as either pneumonia or non-pnemonia**.
-The Paul Mooney dataset was used, found on Kaggle [here] (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). It contains 5,683 images separated into two categories: "Pneumonia" and "Normal".
+The Paul Mooney dataset was used, found on Kaggle here: (https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). It contains 5,683 images separated into two categories: "Pneumonia" and "Normal".
 
 ## Preprocessing and Metric Determination
 
