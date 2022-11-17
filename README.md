@@ -28,7 +28,7 @@ The python LIME package (Local Interpretable Model-agnostic Explanations) was us
 ## Final Model
 In diagnosing pneumonia, the best practice is to reduce the number of False Negatives.
 
-5 models were trained and evaluated for accuracy. The final model has less false negatives and less false positives than most of the other models, with an accuracy score of 82%.
+5 models were trained and evaluated for accuracy. The final model has less false negatives and less false positives than most of the other models, with an accuracy score of 75%.
 
 
 ## Model Conclusion and Reccomendation
