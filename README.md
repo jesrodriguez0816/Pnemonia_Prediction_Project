@@ -16,6 +16,7 @@ The images in the Mooney dataset have the three layers of a colored photograph, 
 ![](Image 10-25-22 at 1.57 PM.jpg)
 ![](Image 10-25-22 at 1.57 PM (1).jpg)
 
+
 In classifying these images, both false positives and false negatives seem to have a cost. Reducing the rate of false positives would reduce the amount of unneccesary perscriptions for patients who do not have pneumonia. However, if the rate of false negatives is neglected, that would mean the rate of untreated pneumonia patients would increase.
 
 It is assumed that each X-ray image in this dataset will be looked over by human eyes-in addition to being trained on the machine-learning model. Therefore, the overall accuracy of the model should be high to make this process the most efficient for the technician or doctor reviewing the x-ray.
@@ -23,7 +24,7 @@ It is assumed that each X-ray image in this dataset will be looked over by human
 ## Feature Importances
 
 The python LIME package (Local Interpretable Model-agnostic Explanations) was used to depict the features (edges) in the image that the model found most important in making its prediction.
-![alt text](Image 11-15-22 at 9.43 AM.jpg)
+![](Image 11-15-22 at 9.43 AM.jpg)
 
 ## Final Model
 In diagnosing pneumonia, the best practice is to reduce the number of False Negatives.
