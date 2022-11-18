@@ -1,6 +1,6 @@
 Jessica Rodriguez
 Flatiron School
-Github repository: 
+
 
 # Phase 4: Pneumonia Prediction Project
 
