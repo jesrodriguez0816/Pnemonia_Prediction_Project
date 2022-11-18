@@ -24,7 +24,7 @@ It is assumed that each X-ray image in this dataset will be looked over by human
 ## Feature Importances
 
 The python LIME package (Local Interpretable Model-agnostic Explanations) was used to depict the features (edges) in the image that the model found most important in making its prediction.
-![](Image 11-15-22 at 9.43 AM.jpg)
+![](Image11-15-22at9.43AM.jpg)
 
 ## Final Model
 In diagnosing pneumonia, the best practice is to reduce the number of False Negatives.
